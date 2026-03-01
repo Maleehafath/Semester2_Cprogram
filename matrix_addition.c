@@ -44,7 +44,7 @@ int main()
 	}
 	if(m==p && n==q)
 	{
-		printf("Addiotion of Matrices:");
+		printf("Addition of Matrices:\n");
 		for(i=0;i<p;i++)
 		{
 			for(j=0;j<q;j++)
