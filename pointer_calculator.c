@@ -9,7 +9,6 @@ int main()
     printf("Enter two numbers: ");
     scanf("%f %f", &a, &b);
 
-    // Assign pointers
     p = &a;
     q = &b;
 
